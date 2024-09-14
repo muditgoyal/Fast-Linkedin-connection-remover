@@ -1,4 +1,4 @@
-# Fast Linkedin Connection Remover
+# Faster Linkedin Connection Remover
 A Javascript snippet that makes it faster to mass remove Linkedin connections. It's very painful to go through the full three click process to remove a single connection, so I made it so that it's one click. Not the sexiest JavaScript in the world but it does the job. This script makes removing connections on Linkedin one click with some simple JS. It adds a red "X" button next to your connections which makes it very easy to remove many folks at once.
 
 **Steps**
