@@ -4,9 +4,9 @@ A Javascript snippet that makes it faster to mass remove Linkedin connections. I
 **Steps**
 1. **Log in to LinkedIn** and navigate to the page where your connections are displayed: https://www.linkedin.com/mynetwork/invite-connect/connections/
 
-2. **Open Developer Tools** in your browser. You can do this in most browsers (tested in Brave and Chrome) by right-clicking on the page and selecting "Inspect" or by pressing Ctrl+Shift+I (or Cmd+Opt+I on Mac).
-
-3. **Understand LinkedIn's Display Behavior**: LinkedIn only loads a subset of your connections at a time. You can sort them by Recently Added, First Name, or Last Name. The script will add the functionality (a red X) to only the connections that are currently visible. To apply the script to more connections, you need to scroll down until all your connections are loaded.
+2. **Understand LinkedIn's Display Behavior**: LinkedIn only loads a subset of your connections at a time. You can sort them by Recently Added, First Name, or Last Name. The script will add the functionality (a red X) to only the connections that are currently visible. To apply the script to more connections, you need to scroll down until all your connections are loaded.
+   
+3. **Open Developer Tools** in your browser. You can do this in most browsers (tested in Brave and Chrome) by right-clicking on the page and selecting "Inspect" or by pressing Ctrl+Shift+I (or Cmd+Opt+I on Mac).
 
 4. Once you're satisfied with the list of connections displayed, **copy and paste the script from the JS file** (available in the repo) into the "Console" tab of Developer Tools.
 
